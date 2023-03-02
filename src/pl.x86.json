@@ -1754,6 +1754,16 @@
 			"description": "Tired of zooming your document everytime you just want to scroll but accidentally still holding the [Ctrl] key? Then this is what you want! It disables mouse zoom, keyboard zoom, or both.",
 			"author": "Stanislav Eckert",
 			"homepage": "https://github.com/StanDog/npp-zoomdisabler"
+		},
+		{
+			"folder-name": "stringworker",
+			"display-name": "stringworker",
+			"version": "0.1",
+			"id": "974be29c2c60c21c47a42374eabd26e7a8bed0e11bbd6da622032e00217affe6",
+			"repository": "https://github.com/janghunduck/noteplugin/releases/download/v0.1/stringworker.0.1_x86.zip",
+			"description": "chrom developer tools for javascript",
+			"author": "jang hun duck",
+			"homepage": "https://github.com/janghunduck/noteplugin"
 		}
 	]
 }
